@@ -1,0 +1,12 @@
+node_modules
+dist
+.env*
+.private/
+*.db
+*.sqlite
+*.sqlite3
+*-shm
+*-wal
+logs
+*.log
+.DS_Store
